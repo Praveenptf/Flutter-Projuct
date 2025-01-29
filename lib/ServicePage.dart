@@ -343,7 +343,7 @@ class _FilterDropdownState extends State<FilterDropdown> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: SvgPicture.asset(
-              'asset/filter-svgrepo-com.svg',
+              'assets/filter-svgrepo-com.svg',
               width: 10,
               height: 10,
             ),
